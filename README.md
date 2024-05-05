@@ -1,16 +1,28 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Rama Bhagwat</h1>
 
-<!--
-**Rama205/Rama205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Waycool Foods
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: ramya.vtb@gmail.com
+- 😄 My website: https://thetechbrothers.net
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Rama205">
+    <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  </a>
+ <a href="www.linkedin.com/in/ramya-bhagwat-25855b234">
+   <img src= "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+ </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,expressjs,html,css,react,mongodb,github,git,postman,figma,jira,perline=)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+
+
+<br>
