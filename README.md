@@ -5,7 +5,6 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: ramya.vtb@gmail.com
 - 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
 <div id="badges">
@@ -19,10 +18,5 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,expressjs,html,css,react,mongodb,github,git,postman,figma,jira,perline=)](https://skillicons.dev)
-
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
-
 
 <br>
