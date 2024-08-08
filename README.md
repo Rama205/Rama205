@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rama205](https://github.com/Rama205)
 
-- 💬 Ask me about  **Node JS, JavScript,MongoDB,**
+- 💬 Ask me about  **Node JS, JavScript,React JS,Tailwind CSS,MongoDB,Express JS**
 
 - 📫 How to reach me  **ramya.vtb@gmail.com**
 
