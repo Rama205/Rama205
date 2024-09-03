@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rama205&label=Profile%20views&color=0e75b6&style=flat" alt="rama205" /> </p>
 
- - 🌱 I’m currently learning **React js**
+ - 🌱 I’m currently learning **My sql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rama205](https://github.com/Rama205)
 
