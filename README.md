@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rama205&label=Profile%20views&color=0e75b6&style=flat" alt="rama205" /> </p>
 
- - 🌱 I’m currently learning **My sql**
+ - 🌱 I’m currently learning **aws**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rama205](https://github.com/Rama205)
 
-- 💬 Ask me about  **Node JS, JavScript,React JS,Tailwind CSS,MongoDB,Express JS,Docker,redis,Kafka**
+- 💬 Ask me about  **Node JS, JavScript,Typescript,React JS,Tailwind CSS,MongoDB,Express JS,Docker,redis,Kafka**
 
 - 📫 How to reach me  **ramya.vtb@gmail.com**
 
